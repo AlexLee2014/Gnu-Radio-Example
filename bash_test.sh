@@ -1,0 +1,1 @@
+gedit newtextfromtest.txt
